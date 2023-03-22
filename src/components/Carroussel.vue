@@ -14,10 +14,11 @@
     data() {
       return {
         images: [
-          '@/public/img/oui.jpg',
-          '@/public/img/oui1.jpg',
-          '@/public/img/rerere.jpg',
-          '@/public/img/rezhjez.jpg',
+          'https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2021/12/12/node_1113088/54308687/public/2021/12/12/B9729320055Z.1_20211212163248_000%2BG1IJH64HT.1-0.jpg?itok=dB7A8p0i1639323174',
+          'https://www.serieously.com/app/uploads/2022/03/collage-sans-titre-84-min-1.jpg',
+          'https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FTEL.2F2019.2F09.2F20.2F911f976b-9da5-45b9-8f7c-2120fff7a071.2Ejpeg/1200x800/quality/65/jane-seymour-incarnait-l-insoumise-docteur-michaela-quinn-entre-1993-et-1998.jpg',
+          'https://www.uneseriedanecdotes.fr/wp-content/webpc-passthru.php?src=https://www.uneseriedanecdotes.fr/wp-content/uploads/2021/07/Docteur-Quinn-femme-medecin.jpg&nocache=1',
+          'https://thumb.canalplus.pro/http/unsafe/1440x810/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104694941',
           
         ],
         currentSlide: 0,
