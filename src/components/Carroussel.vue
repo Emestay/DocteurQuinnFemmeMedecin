@@ -14,10 +14,10 @@
     data() {
       return {
         images: [
-          '../../public/img/oui.jpg',
-          '../../public/img/oui1.jpg',
-          '../../public/img/rerere.jpg',
-          '../../public/img/rezhjez.jpg',
+          '@/public/img/oui.jpg',
+          '@/public/img/oui1.jpg',
+          '@/public/img/rerere.jpg',
+          '@/public/img/rezhjez.jpg',
           
         ],
         currentSlide: 0,
