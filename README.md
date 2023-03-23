@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f83167b-3b1d-45fa-b424-c3d1d2c74e7a/deploy-status)](https://app.netlify.com/sites/stellular-rolypoly-505287/deploys)
 # DocQueen
 
 This template should help get you started developing with Vue 3 in Vite.
